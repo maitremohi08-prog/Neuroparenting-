@@ -1,0 +1,6 @@
+{
+  "name": "NeuroParent AI",
+  "description": "Educational and supportive AI companion for parents to understand and support their child's everyday challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
